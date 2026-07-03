@@ -163,6 +163,15 @@ This project interfaces with **AC mains voltage** through a relay module.
 - Educational IoT Projects
 
 ---
+## 📄 Copyright Notice
+
+This project is shared for educational and portfolio purposes only.
+
+No license is granted for reuse, modification, or redistribution without the author's prior written permission.
+
+© 2026 Gopika R. All rights reserved.
+
+---
 
 ## 👩‍💻 Author
 
