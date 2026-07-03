@@ -3,7 +3,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-green)
 ![Blynk](https://img.shields.io/badge/Blynk-IoT-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 An IoT-based Smart Timer Plug designed to remotely control electrical appliances using the **Blynk IoT platform**. The system allows users to switch connected devices ON/OFF from anywhere, schedule automatic operations using timers, and monitor the device through a Wi-Fi connection.
 
