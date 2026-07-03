@@ -132,7 +132,7 @@ Smart-Timer-Plug/
    - Blynk Authentication Token
    - Wi-Fi SSID
    - Wi-Fi Password
-6. Select the ESP32 board.
+6. Select the ESP32 board & port.
 7. Upload the code.
 8. Open the Blynk app and control your smart plug.
 
@@ -151,6 +151,7 @@ This project interfaces with **AC mains voltage** through a relay module.
 
 ## 🎯 Applications
 
+- Mobile Charging
 - Home Automation
 - Smart Lighting
 - Remote Appliance Control
@@ -168,5 +169,3 @@ Electronics & Communication Engineering Student
 GitHub: https://github.com/GopikaR06-collab
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a Star!
