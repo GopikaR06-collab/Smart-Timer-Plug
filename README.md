@@ -76,12 +76,6 @@ Smart-Timer-Plug/
 
 ## 📸 Project Images
 
-### Components Used
-
-![Components](Images/Components.jpeg)
-
----
-
 ### ESP32 Wrover Module
 
 ![ESP32](Images/ESP32%20Wrover-IE%20Module.jpeg)
