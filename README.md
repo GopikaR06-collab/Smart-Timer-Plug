@@ -59,13 +59,6 @@ Smart-Timer-Plug/
 ├── README.md
 ├── Smart_Timer_Plug_Final.ino
 └── Images/
-    ├── Components.jpeg
-    ├── ESP32 Wrover-IE Module.jpeg
-    ├── LM2596 DC-DC Buck Converter Module.jpeg
-    ├── 2-Channel Relay Module.jpeg
-    ├── Battery.jpeg
-    ├── BreadboardConnection.jpeg
-    ├── BreadboardConnection2.jpeg
     ├── Connection-Relay-LM2596.jpeg
     ├── FullConnection.jpeg
     ├── Switch-VoltageRegulator.jpeg
@@ -75,32 +68,6 @@ Smart-Timer-Plug/
 ---
 
 ## 📸 Project Images
-
-### ESP32 Wrover Module
-
-![ESP32](Images/ESP32%20Wrover-IE%20Module.jpeg)
-
----
-
-### Relay Module
-
-![Relay](Images/2-Channel%20Relay%20Module.jpeg)
-
----
-
-### LM2596 Buck Converter
-
-![LM2596](Images/LM2596%20DC-DC%20Buck%20Converter%20Module.jpeg)
-
----
-
-### Breadboard Connections
-
-![Breadboard](Images/BreadboardConnection.jpeg)
-
-![Breadboard2](Images/BreadboardConnection2.jpeg)
-
----
 
 ### Relay & Voltage Regulator Connections
 
@@ -155,15 +122,6 @@ This project interfaces with **AC mains voltage** through a relay module.
 - Remote Appliance Control
 - Energy Saving
 - Educational IoT Projects
-
----
-## 📄 Copyright Notice
-
-This project is shared for educational and portfolio purposes only.
-
-No license is granted for reuse, modification, or redistribution without the author's prior written permission.
-
-© 2026 Gopika R. All rights reserved.
 
 ---
 
